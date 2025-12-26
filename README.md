@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm @Itay6The9Gever
 
-<!--
-**Itay6The9Gever/Itay6The9Gever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🌱 Currently Exploring
+- 🤖 **Deep Learning** (PyTorch, TensorFlow)
+- 🧠 **Machine Learning**
+- 🗄️ **Data Engineering**
+- 🌐 **Computer Networking & Security**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning
+- Deep Learning, Machine learning, Data, engineering, and Computer networking
+
+## 💞️ I'm looking to collaborate on
+- Open source projects related to AI and cybersecurity
+- Tools that enhance privacy or internet safety 🔒
+- Networking and web
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,git,bash,vscode,cs" />
+</p>
+
+---
+
+## 📫 How to reach me
+- 💬 Discord: itay2592
+
+---
+
+<img src="https://streak-stats.demolab.com?user=Itay6The9Gever&theme=tokyonight&hide_border=true" />
